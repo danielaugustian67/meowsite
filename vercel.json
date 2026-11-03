@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/download",
-      "destination": "https://expo.dev/artifacts/eas/x033-CPFct7KGyq3RdG9CEh3ruoUMwzImzQsr7oHLZE.apk",
+      "destination": "https://github.com/danielaugustian67/meowshot-mobile/releases/download/v1.1.0/application-aec19761-9b73-4f8f-8d26-11e81a1fc209.apk",
       "permanent": false
     }
   ]
