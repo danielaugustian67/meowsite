@@ -4,7 +4,7 @@ Static page for downloading the Meowshot Android app, hosted on Vercel. There is
 
 ## Update the APK
 
-After each new build, change `destination` in `vercel.json` to the new APK link. Links to EAS builds expire, so check the date on the build page.
+After each new release, change `destination` in `vercel.json` to the APK attached to the new GitHub release of `meowshot-mobile`, and the version in `index.html`.
 
 ## Preview
 
