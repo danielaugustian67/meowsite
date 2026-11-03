@@ -1,6 +1,6 @@
 # Meowshot download page
 
-Static page for downloading the Meowshot Android app, hosted on Vercel. There is no build step.
+Static page for getting Meowshot, hosted on Vercel: the APK for Android, and steps to add the web app to the Home Screen from Safari on iPhone. There is no build step.
 
 ## Update the APK
 
